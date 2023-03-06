@@ -7,7 +7,7 @@
     
   ## Ma bio
  <div>
-    <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" align="right" alt="Écran code informatique" width="270"/>
+    <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" align="right" alt="Écran code informatique" width="170"/>
     <p align="left">Test<p/>
  <div/>
 
