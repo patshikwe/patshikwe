@@ -6,7 +6,7 @@
   # Développeur Web JavaScript
     
   ## Ma bio
-  <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" align="right" alt="" />
+  <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" align="right" alt="Écran code informatique" />
   <p align="left">Test<p/>
 
   ____________________________________________________________________________________________________________________________
