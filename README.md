@@ -16,7 +16,9 @@
     <p>Test<p/>
     <div><div/>
  <div/>
-
+      
+  [![Patshikwe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Patshikwe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
   ### Mes technologies
   <div >
@@ -26,7 +28,7 @@
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-original.svg" alt="GITHUB" width="35px" color="white"/>
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-original.svg" alt="GITHUB" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mysql-plain.svg" alt="MySQL" width="35px" />
   <di/>
