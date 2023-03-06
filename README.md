@@ -1,4 +1,4 @@
-[![banière développeur web](http://stockage_img/blob/main/Banière_dev_linkedin.png)](#)
+[![Bannière développeur web](https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png)](#)
 
 
 <!--
