@@ -1,4 +1,4 @@
-<div style="background-color: blue" >
+<div>
   <a href="#">
     <img src="https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png"  alt="Bannière" height="170" width="100%"/>
   <a/>
@@ -31,9 +31,14 @@
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mysql-plain.svg" alt="MySQL" width="35px" />
   <di/>
+  
+  ### Contact
+  <a href="mailto:patrick.tshimpaka.kwekwe@gmail.com">
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse mail" width="35px" />
+  <a/>
 <div/>
 
-
+ 
 
 <!--
 **patshikwe/patshikwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
