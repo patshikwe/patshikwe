@@ -1,6 +1,6 @@
 <div style="background-color: blue" >
   <a href="#">
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png"  alt="Bannière"/>
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png"  alt="Bannière" height="170" width="100%"/>
   <a/>
     
   # Développeur Web JavaScript
