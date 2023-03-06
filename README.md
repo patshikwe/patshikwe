@@ -37,7 +37,9 @@
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse mail" width="35px" />
   <a/>
     
-  <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" width="35px" />
+ <a href="https://linkedin.com/in/patrick-tshimpaka-kwekwe">
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" width="35px" />
+ <a/>
 <div/>
 
  
