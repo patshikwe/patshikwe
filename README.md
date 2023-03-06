@@ -1,4 +1,9 @@
 [![Bannière développeur web](https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png)](#)
+# Développeur Web JavaScript
+## Ma bio
+<img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" align="right" />
+<p align="left">Test<p/>
+
 
 
 <!--
