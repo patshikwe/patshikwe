@@ -28,6 +28,7 @@
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" width="35px" />
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-g967735ec5_640.png" alt="Github" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mysql-plain.svg" alt="MySQL" width="35px" />
   <di/>
