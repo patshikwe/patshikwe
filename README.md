@@ -1,14 +1,21 @@
 <div>
   <a href="#">
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png"  alt="Bannière" height="170" width="100%"/>
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png"  alt="Bannière" height="170"                 width="100%"/>
   <a/>
     
   # Développeur Web JavaScript
     
   ## Ma bio
  <div>
-    <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" align="right" alt="Écran code informatique" width="170"/>
-    <p align="left">Test<p/>
+    <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
+    <p align="left">
+      Je suis créateur de site web.<br/> Nom et prénom, voir 
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/hand-point-right.svg" alt="Droit pointé vers la droite"               width="35px" align="center"/>  photo de profil.
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/circle-user.svg" alt="icône utilisateur" width="35px"                 align="center"/><br/>
+      💬 𝕰𝖙 𝖕𝖔𝖚𝖗 𝖑𝖆 𝖕𝖗𝖔𝖓𝖔𝖓𝖈𝖎𝖆𝖙𝖎𝖔𝖓 𝖉𝖊 𝖙𝖔𝖓 𝖓𝖔𝖒 ! <br/>
+      Ce n'est pas grave ! Fêtes de votre mieux ! 😄 <br/>
+      Je suis formé chez OpenClassrooms en dev full stack.
+    <p/>
  <div/>
 
   ### Mes Réalisations
