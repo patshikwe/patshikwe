@@ -9,7 +9,7 @@
  <div>
     <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     <p align="left">
-     𝙅𝙚 𝙨𝙪𝙞𝙨 𝙘𝙧é𝙖𝙩𝙚𝙪𝙧 𝙙𝙚 𝙨𝙞𝙩𝙚 𝙬𝙚𝙗.<br/> 𝙉𝙤𝙢 𝙚𝙩 𝙥𝙧é𝙣𝙤𝙢, 𝙫𝙤𝙞𝙧 
+     𝙅𝙚 𝙨𝙪𝙞𝙨 𝙘𝙧é𝙖𝙩𝙚𝙪𝙧 𝙙𝙚 𝙨𝙞𝙩𝙚 𝙬𝙚𝙗.<br/> 𝙋𝙧é𝙣𝙤𝙢 𝙚𝙩 𝙣𝙤𝙢, 𝙫𝙤𝙞𝙧 
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/hand-point-right.svg" alt="Droit pointé vers la droite"               width="20px" align="center"/> 𝙥𝙝𝙤𝙩𝙤 𝙙𝙚 𝙥𝙧𝙤𝙛𝙞𝙡.
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/circle-user.svg" alt="icône utilisateur" width="25px"                 align="center"/><br/>
       💬 𝕰𝖙 𝖕𝖔𝖚𝖗 𝖑𝖆 𝖕𝖗𝖔𝖓𝖔𝖓𝖈𝖎𝖆𝖙𝖎𝖔𝖓 𝖉𝖊 𝖙𝖔𝖓 𝖓𝖔𝖒 ! <br/>
