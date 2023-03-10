@@ -27,8 +27,17 @@
    
    test section prévisualisation projets 
    
-    
-   
+   <div>
+     <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_2_18062021/">
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/img/Reservia_extrait_maquette.jpg" alt="Reservia" width="30%" />
+     <a/>
+     <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_3_26082021/">
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/img/Ohmyfood_page_d'accueil.jpg" alt="Ohmyfood"  width="30%" />
+     <a/>
+     <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_4_25102021/">
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/img/La_chouette_agence.jpg" alt="La chouette agence"  width="30%"           />
+     <a/>
+    <div/>                                                                                 
       
   [![Patshikwe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Patshikwe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
