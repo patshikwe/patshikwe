@@ -1,6 +1,6 @@
 
   <a href="#">
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/Bani%C3%A8re_dev_linkedin.png"  alt="Bannière" height="170"    width="100%"/>
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/Patshikwe_Digital_Marketing_LinkedIn_Banner%20.png"  alt="Bannière" height="170"    width="100%"/>
   <a/>
     
   # Développeur Web JavaScript
