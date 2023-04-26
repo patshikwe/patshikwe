@@ -7,7 +7,9 @@
    
   ## Ma bio
  <div>
-    <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
+  <a href="https://patshikwe.github.io/dev/">
+      <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
+  </a>
     <p align="left">
        𝙅𝙚 𝙨𝙪𝙞𝙨 𝙘𝙧é𝙖𝙩𝙚𝙪𝙧 𝙙𝙚 𝙨𝙞𝙩𝙚 𝙬𝙚𝙗.<br/> 
        🅿🅰🆃🆁🅸🅲🅺 𝙚𝙨𝙩 𝙢𝙤𝙣 𝙥𝙧é𝙣𝙤𝙢.<br/>
