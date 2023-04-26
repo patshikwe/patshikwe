@@ -4,10 +4,8 @@
   </a>
     
   # Développeur Web JavaScript
-    
-  ## MAINTENANCE EN COURS
-    
-  ### Ma bio
+   
+  ## Ma bio
  <div>
     <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     <p align="left">
