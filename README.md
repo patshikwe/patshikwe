@@ -38,6 +38,8 @@
        Reservia est un site web qui permet aux utilisateurs de trouver des hébergements et des activités à Marseille.<br/><br/>
         <strong>Ma mission</strong><br/>
        <strong>Transformation d'une maquette en site web.</strong><br/>
+       <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_2_18062021">🔗README.md</a><br/>
+       🔗site web
         👇
      </p>
      <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_2_18062021/">
@@ -56,6 +58,8 @@
            <li>L'ensemble du site doit-être <strong>responsive sur mobile, table et desktop</strong>.</li>
            <li>Implémentation <strong>des effets graphiques et animations</strong> avancés en CSS, pas de JavaScript ni librerie.</li>
          </ol>
+         <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_3_26082021">🔗README.md</a><br/>
+          🔗site web
           👇
      </p>
      <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_3_26082021/">
@@ -69,6 +73,8 @@
       L'agence a un problème de visibilité sur la page google, elle n'apparaît pas sur la première page.<br/><br/>
       <strong>Ma mission</strong><br/>
       Je suis sollicité pour régler le problème de référencement(SEO).<br/>
+      <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_4_25102021">🔗README.md</a><br/>
+       🔗site web
        👇
      </p>
      <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_4_25102021/">
