@@ -5,14 +5,15 @@
     
   # Développeur Web JavaScript
     
-  ## Ma bio
+  ## MAINTENANCE EN COURS
+    
+  ### Ma bio
  <div>
     <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     <p align="left">
-     𝙅𝙚 𝙨𝙪𝙞𝙨 𝙘𝙧é𝙖𝙩𝙚𝙪𝙧 𝙙𝙚 𝙨𝙞𝙩𝙚 𝙬𝙚𝙗.<br/> 𝙋𝙧é𝙣𝙤𝙢 𝙚𝙩 𝙣𝙤𝙢, 𝙫𝙤𝙞𝙧 👉🏿 𝙥𝙝𝙤𝙩𝙤 𝙙𝙚 𝙥𝙧𝙤𝙛𝙞𝙡.
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/user-account-50.png" alt="icône utilisateur" width="25px"                               align="center"/><br/>
-      💬 𝕰𝖙 𝖕𝖔𝖚𝖗 𝖑𝖆 𝖕𝖗𝖔𝖓𝖔𝖓𝖈𝖎𝖆𝖙𝖎𝖔𝖓 𝖉𝖊 𝖙𝖔𝖓 𝖓𝖔𝖒 ! <br/>
-      𝘾𝙚 𝙣'𝙚𝙨𝙩 𝙥𝙖𝙨 𝙜𝙧𝙖𝙫𝙚 ! 𝙁𝙖𝙞𝙩𝙚𝙨 𝙙𝙚 𝙫𝙤𝙩𝙧𝙚 𝙢𝙞𝙚𝙪𝙭 ! 😄 <br/>
+       𝙅𝙚 𝙨𝙪𝙞𝙨 𝙘𝙧é𝙖𝙩𝙚𝙪𝙧 𝙙𝙚 𝙨𝙞𝙩𝙚 𝙬𝙚𝙗.<br/> 
+       🅿🅰🆃🆁🅸🅲🅺 𝙚𝙨𝙩 𝙢𝙤𝙣 𝙥𝙧é𝙣𝙤𝙢 <br/>
+       🆃🆂🅷🅸🅼🅿🅰🅺🅰  🅺🆆🅴🅺🆆🅴 𝙚𝙨𝙩 𝙢𝙤𝙣 𝙣𝙤𝙢 𝙙𝙚 𝙛𝙖𝙢𝙞𝙡𝙡𝙚 <br/>
       𝙅𝙚 𝙨𝙪𝙞𝙨 𝙛𝙤𝙧𝙢é 𝙘𝙝𝙚𝙯 𝙊𝙥𝙚𝙣𝘾𝙡𝙖𝙨𝙨𝙧𝙤𝙤𝙢𝙨 𝙚𝙣 𝙙𝙚𝙫 𝙛𝙪𝙡𝙡 𝙨𝙩𝙖𝙘𝙠.
     <p/>
  <div/>
