@@ -56,7 +56,7 @@
          <ol>
            <li>Développer le site en utilisant l'approche <strong>mobile-first</strong>.</li>
            <li>L'ensemble du site doit-être <strong>responsive sur mobile, table et desktop</strong>.</li>
-           <li>Implémentation <strong>des effets graphiques et animations</strong> avancés en CSS, pas de JavaScript ni librerie.</li>
+           <li>Implémentation <strong>des effets graphiques et animations</strong> avancés en CSS, pas de JavaScript ni librairie.</li>
          </ol>
          <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_3_26082021">🔗README.md</a><br/>
           🔗site web
