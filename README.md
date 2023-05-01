@@ -7,7 +7,7 @@
    
   ## Ma bio
  <div>
-  <a href="https://patshikwe.github.io/dev/">
+  <a href="https://patshikwe.github.io/jeu_obstacle/">
       <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     Jeu gratuit
   </a>
