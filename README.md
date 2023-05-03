@@ -126,29 +126,29 @@
 [![Patshikwe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
   ### Mes technologies
-  <div >
-    <a href="#">
+  <div  id="technos">
+    <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/javascript-plain.svg" alt="JavaScript" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-g967735ec5_640.png" alt="Github" width="35px" />
     </a>
-    <a href="#">
+    <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
     </a> 
   </di>
