@@ -19,7 +19,7 @@
     </p>
  </div>
 
-  ### Mes Réalisations
+  ## Mes Réalisations
  
    **_Chaque projet possède son fichier README.md qui détaille l'aspect technique et résume son contexte_**.
    
@@ -125,7 +125,7 @@
   [![Patshikwe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Patshikwe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-  ### Mes technologies
+  ## Mes technologies
   <div  id="technos">
     <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" width="35px" />
@@ -152,15 +152,17 @@
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
     </a> 
   </di>
-  
-  ### Contact
-  <a href="mailto:patrick.tshimpaka.kwekwe@gmail.com">
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse mail" width="35px" />
-  </a>
+     
     
- <a href="https://linkedin.com/in/patrick-tshimpaka-kwekwe">
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" width="35px" />
- </a>
+  ## Contact
+   <div id="contact">
+      <a href="mailto:patrick.tshimpaka.kwekwe@gmail.com">
+        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse mail" width="35px" />
+      </a>
+     <a href="https://linkedin.com/in/patrick-tshimpaka-kwekwe">
+        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" width="35px" />
+     </a>
+   </div>
 
 
 <!--
