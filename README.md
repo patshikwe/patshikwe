@@ -127,14 +127,30 @@
 
   ### Mes technologies
   <div >
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/javascript-plain.svg" alt="JavaScript" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-g967735ec5_640.png" alt="Github" width="35px" />
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
+    <a href="#">
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" width="35px" />
+    </a>
+    <a href="#">
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS" width="35px" />
+    </a>
+    <a href="#">
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/javascript-plain.svg" alt="JavaScript" width="35px" />
+    </a>
+    <a href="#">
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" width="35px" />
+    </a>
+    <a href="#">
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" width="35px" />
+    </a>
+    <a href="#">
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" width="35px" />
+    </a>
+    <a href="#">
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-g967735ec5_640.png" alt="Github" width="35px" />
+    </a>
+    <a href="#">
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
+    </a> 
   </di>
   
   ### Contact
