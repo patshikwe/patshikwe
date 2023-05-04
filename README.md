@@ -2,11 +2,20 @@
   <a href="#">
     <img src="https://github.com/patshikwe/stockage_img/blob/main/Patshikwe_Digital_Marketing_LinkedIn_Banner%20.png"  alt="Bannière" height="170"    width="100%"/>
   </a>
+  
+  <nav>
+    <ul>
+      <li><a href="#realisations">Mes Réalisations</a></li>
+      <li><a href="#technos">Mes Technologies</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
     
   # Développeur Web JavaScript
    
-  ## Ma bio
+  
  <div>
+  <h2> Ma bio</h2>
   <a href="https://patshikwe.github.io/jeu_obstacle/">
       <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     Jeu gratuit
@@ -19,20 +28,21 @@
     </p>
  </div>
 
-  ## Mes Réalisations
- 
-   **_Chaque projet possède son fichier README.md qui détaille l'aspect technique et résume son contexte_**.
    
-   *Pour voir plus de projets rendez-vous en haut de la page dans* **Repositories**.
-   _____________________
-   
-   
-  **Présentation visuelle de quelques projets** 
-  
-  *Cliquez sur une image pour être dirigé(e) vers sa page ou son README.md*
-   👇
-   
-   <div>
+   <div id="realisations">
+    <h2>Mes Réalisations </h2>
+    <p>
+      <strong>
+        <em>Chaque projet possède son fichier README.md qui détaille l'aspect technique et résume son contexte.</em>
+      </strong>
+    </p>
+    <p>
+      <em>Pour voir plus de projets rendez-vous en haut de la page dans</em> <strong>Repositories.</strong>
+    </p>
+    <p><strong>Présentation visuelle de quelques projets.</strong></p>
+    <P>
+      <em>Cliquez sur une image pour être redirigé(e) vers sa page ou son README.md.</em>
+    </P>
     <div >
       <h3>Reservia</h3>
      <p>
@@ -125,8 +135,9 @@
   [![Patshikwe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Patshikwe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patshikwe&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-  ## Mes technologies
+  
   <div  id="technos">
+    <h2>Mes technologies</h2>
     <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" width="35px" />
     </a>
@@ -154,8 +165,8 @@
   </di>
      
     
-  ## Contact
    <div id="contact">
+     <h2>Contact</h2>
       <a href="mailto:patrick.tshimpaka.kwekwe@gmail.com">
         <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse mail" width="35px" />
       </a>
