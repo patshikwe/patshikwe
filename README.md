@@ -5,6 +5,7 @@
   
   <nav>
     <ul>
+      <li><a href="#bio">Ma Bio</a></li>
       <li><a href="#realisations">Mes Réalisations</a></li>
       <li><a href="#technos">Mes Technologies</a></li>
       <li><a href="#contact">Contact</a></li>
@@ -14,8 +15,8 @@
   # Développeur Web JavaScript
    
   
- <div>
-  <h2> Ma bio</h2>
+ <div id="bio">
+  <h2> Ma Bio</h2>
   <a href="https://patshikwe.github.io/jeu_obstacle/">
       <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     Jeu gratuit
@@ -137,7 +138,7 @@
 
   
   <div  id="technos">
-    <h2>Mes technologies</h2>
+    <h2>Mes Technologies</h2>
     <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" title="HTML5" width="35px" />
     </a>
