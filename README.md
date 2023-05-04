@@ -142,7 +142,7 @@
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" title="HTML5" width="35px" />
     </a>
     <a href="#technos">
-       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS" title="CSS" width="35px" />
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS3" title="CSS3" width="35px" />
     </a>
     <a href="#technos">
       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="35px" />
