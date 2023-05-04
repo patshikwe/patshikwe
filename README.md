@@ -139,28 +139,28 @@
   <div  id="technos">
     <h2>Mes technologies</h2>
     <a href="#technos">
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" width="35px" />
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/html5-plain-wordmark.svg" alt="HTML5" title="HTML5" width="35px" />
     </a>
     <a href="#technos">
-       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS" width="35px" />
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/css3-plain-wordmark.svg" alt="CSS" title="CSS" width="35px" />
     </a>
     <a href="#technos">
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/javascript-plain.svg" alt="JavaScript" width="35px" />
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="35px" />
     </a>
     <a href="#technos">
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" width="35px" />
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/react-original-wordmark.svg" alt="React" title="React" width="35px" />
     </a>
     <a href="#technos">
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" width="35px" />
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/nodejs-plain.svg" alt="Node.js" title="Node.js" width="35px" />
     </a>
     <a href="#technos">
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" width="35px" />
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/git-original.svg" alt="Git" title="Git" width="35px" />
     </a>
     <a href="#technos">
-       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-g967735ec5_640.png" alt="Github" width="35px" />
+       <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/github-g967735ec5_640.png" alt="Github" title="Github" width="35px" />
     </a>
     <a href="#technos">
-      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" width="35px" />
+      <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="35px" />
     </a> 
   </di>
      
@@ -168,13 +168,19 @@
    <div id="contact">
      <h2>Contact</h2>
       <a href="mailto:patrick.tshimpaka.kwekwe@gmail.com">
-        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse mail" width="35px" />
+        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Adresse email" title="Adresse email" width="35px" />
       </a>
      <a href="https://linkedin.com/in/patrick-tshimpaka-kwekwe">
-        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" width="35px" />
+        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" title="LinkedIn" width="35px" />
      </a>
    </div>
 
+<div href="#">
+<br/>
+  <a>
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/arrow-up.png" alt="Flèche retour en tête de la page" title="Flèche retour en tête de la page"        width="35px" />
+  </a>
+</div>
 
 <!--
 **patshikwe/patshikwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
