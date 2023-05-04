@@ -177,6 +177,7 @@
    </div>
 <hr>
 <div>
+  <p>Flèche retour en haut de la page</p>
   <a href="#">
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/arrow-up.png" alt="Flèche retour en-tête de la page" title="Flèche retour en-tête de la page"        width="35px" />
   </a>
