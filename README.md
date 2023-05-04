@@ -174,9 +174,8 @@
         <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" title="LinkedIn" width="35px" />
      </a>
    </div>
-
+<hr>
 <div>
-<br/>
   <a href="#">
     <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/arrow-up.png" alt="Flèche retour en-tête de la page" title="Flèche retour en-tête de la page"        width="35px" />
   </a>
