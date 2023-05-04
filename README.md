@@ -175,10 +175,10 @@
      </a>
    </div>
 
-<div href="#">
+<div>
 <br/>
-  <a>
-    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/arrow-up.png" alt="Flèche retour en tête de la page" title="Flèche retour en tête de la page"        width="35px" />
+  <a href="#">
+    <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/arrow-up.png" alt="Flèche retour en-tête de la page" title="Flèche retour en-tête de la page"        width="35px" />
   </a>
 </div>
 
