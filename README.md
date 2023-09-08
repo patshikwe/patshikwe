@@ -169,7 +169,7 @@
    <div id="contact">
      <h2>Contact</h2>
       <a href="https://www.patshikwe.com/#contact">
-        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Lien vers formulaire de contact" title="Adresse email" width="35px" />
+        <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/at-sign-g53140000c_640.png" alt="Lien vers formulaire de contact" title="Formulaire de contact" width="35px" />
       </a>
      <a href="https://linkedin.com/in/patrick-tshimpaka-kwekwe">
         <img src="https://github.com/patshikwe/stockage_img/blob/main/icons/linked-in-gfe4608683_640.png" alt="LinkedIn" title="LinkedIn" width="35px" />
