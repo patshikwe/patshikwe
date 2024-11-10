@@ -13,7 +13,7 @@
   </nav>
     
   # Développeur Web JavaScript
-   <h2 style="color:red !important;">Maintenance en cours !!!</h2>
+ 
   
  <div id="bio">
   <h2> Ma Bio</h2>
