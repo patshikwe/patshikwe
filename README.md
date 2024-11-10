@@ -50,11 +50,11 @@
        Reservia est un site web qui permet aux utilisateurs de trouver des hébergements et des activités à Marseille.<br/><br/>
         <strong>Ma mission</strong><br/>
        <strong>Transformation d'une maquette en site web.</strong><br/>
-       <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_2_18062021">🔗README.md</a><br/>
+       <a href="https://github.com/patshikwe/Reservia">🔗README.md</a><br/>
        🔗site web
         👇
      </p>
-     <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_2_18062021/">
+     <a href="https://patshikwe.github.io/Reservia/">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/img/Reservia_extrait_maquette.jpg" alt="Reservia" />
      </a>
    </div> 
@@ -70,11 +70,11 @@
            <li>L'ensemble du site doit-être <strong>responsive sur mobile, table et desktop</strong>.</li>
            <li>Implémentation <strong>des effets graphiques et animations</strong> avancés en CSS, pas de JavaScript ni librairie.</li>
          </ol>
-         <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_3_26082021">🔗README.md</a><br/>
+         <a href="https://github.com/patshikwe/Ohmyfood">🔗README.md</a><br/>
           🔗site web
           👇
      </p>
-     <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_3_26082021/">
+     <a href="https://patshikwe.github.io/Ohmyfood/">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/img/Ohmyfood_page_d'accueil.jpg" alt="Ohmyfood"/>
      </a>
    </div> 
@@ -85,11 +85,11 @@
       L'agence a un problème de visibilité sur la page google, elle n'apparaît pas sur la première page.<br/><br/>
       <strong>Ma mission</strong><br/>
       Je suis sollicité pour régler le problème de référencement(SEO).<br/>
-      <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_4_25102021">🔗README.md</a><br/>
+      <a href="https://github.com/patshikwe/La-chouette-agence">🔗README.md</a><br/>
        🔗site web
        👇
      </p>
-     <a href="https://patshikwe.github.io/tshimpakakwekwepatrick_4_25102021/">
+     <a href="https://patshikwe.github.io/La-chouette-agence/">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/img/La_chouette_agence.jpg" alt="La chouette agence"/>
      </a>
    </div>  
@@ -109,7 +109,7 @@
        </ul>
          👇
      </p>
-     <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_5_06012022">
+     <a href="https://github.com/patshikwe/Kanap">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/img/Kanap_demo.gif"  alt="Site web Kanap"/>
      </a>
  </div>
@@ -127,7 +127,7 @@
        </ol>
           👇
      </p>
-     <a href="https://github.com/patshikwe/tshimpakakwekwepatrick_7_27052022">
+     <a href="https://github.com/patshikwe/Groupomania">
        <img src="https://github.com/patshikwe/stockage_img/blob/main/img/Groupomania_demo.gif"  alt="Site web Groupomania"/>
      </a>
  </div>
