@@ -17,7 +17,7 @@
   
  <div id="bio">
   <h2> Ma Bio</h2>
-  <a href="https://patshikwe.github.io/jeu_obstacle/">
+  <a href=" https://patshikwe.github.io/Jeu-obstacle/">
       <img src="https://media.giphy.com/media/QHLBmZ2Xmdvgc/giphy-downsized.gif" alt="Écran code informatique" width="170" align="right"/>
     Jeu gratuit
   </a>
